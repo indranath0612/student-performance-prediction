@@ -49,7 +49,7 @@ This project aims to analyze student-related data and predict a **Performance In
 ---
 
 
-👤 Author
+👤 Author-
 Indra Nath Sanyal
 B.Tech Student | Data Analytics & Machine Learning Enthusiast
 
